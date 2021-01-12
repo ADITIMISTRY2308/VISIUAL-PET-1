@@ -1,2 +1,1 @@
-# VISIUAL-PET-1
-PROJECT
+# virtual-pet-1
